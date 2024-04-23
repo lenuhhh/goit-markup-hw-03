@@ -323,8 +323,7 @@ padding-right: 24px;
 .page-logotype {
     align-items: center;
     display: flex;
-    padding-top: 100px;
-    padding-left: 150px;
+    padding: 100px 0 100px
         margin-bottom: 16px
     display: inline-block;
 }
