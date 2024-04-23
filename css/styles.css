@@ -216,6 +216,8 @@ background-color: #FFFFFF
     padding-left: 156px;
     padding-right: 156px;
     align-items: center; 
+    border-bottom: 1px solid #e7e9fc;
+    width: 1158px;
 }
 
 .nav-list-item {
@@ -340,6 +342,6 @@ padding-right: 24px;
 .portfolio-last {
     padding-top: 120px; padding-bottom: 120px;
 }
-.page-header {
-    border-bottom: 1px solid #e7e9fc;
+.page-logo {
+    margin-right: 76px
 }
