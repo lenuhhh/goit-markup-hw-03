@@ -213,6 +213,7 @@ background-color: #FFFFFF
     display: flex; 
     padding-left: 156px;
     padding-right: 156px;
+    align-items: center; 
 }
 
 .nav-list-item {
@@ -332,4 +333,8 @@ padding-right: 24px;
     padding-bottom: 16px;
     padding-left: 156px;
     padding-right: 900px;
+}
+.page-header {
+    width: 1158px; 
+    border-bottom: 1px solid #e7e9fc
 }
