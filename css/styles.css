@@ -22,7 +22,6 @@ a {
 }
 img {
     display: block;
-    border-radius: 0px 0px 4px 4px;
 }
 button {
     cursor: pointer;
@@ -279,6 +278,7 @@ min-width: 169px;
 .box-models {
     display: flex;
     justify-content: center;
+        border-radius: 0px 0px 4px 4px;
 }
 .box-model:not(:last-child) {
 margin-right: 24px;
@@ -362,4 +362,7 @@ display: flex;
 }
 .benefits-text {
 width: calc((100% - 72px) / 4); 
+}
+.box.model {
+        border-radius: 0px 0px 4px 4px;
 }
