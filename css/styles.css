@@ -325,6 +325,8 @@ padding-right: 24px;
     display: flex;
     padding-top: 100px;
     padding-left: 150px;
+        margin-bottom: 16px
+    display: inline-block;
 }
 .text-footer {
     padding-top: 16px;
