@@ -375,3 +375,8 @@ width: calc((100% - 72px) / 4);
     border-top: none;
     margin-bottom: 8px
 }
+.main-text-port {
+    column-gap: 24px; 
+    row-gap: 48px;
+    width: calc((100% - 48px) / 3); 
+}
