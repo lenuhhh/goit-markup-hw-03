@@ -366,3 +366,6 @@ display: flex;
     margin-bottom: 8px; 
     width: calc((100% - 72px) / 4); 
 }
+.benefits-tops {
+    margin-bottom: 8px;
+}
