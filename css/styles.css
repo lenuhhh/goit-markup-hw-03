@@ -364,7 +364,5 @@ display: flex;
 }
 .page-benefits {
     margin-bottom: 8px; 
-}
-.page-benefits {
     width: calc((100% - 72px) / 4); 
 }
