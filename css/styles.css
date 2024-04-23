@@ -399,6 +399,3 @@ margin-bottom: 48px
 column-gap: 24px;
 row-gap: 48px; 
 }
-.main-text-port {
-    width: calc((100% - 48px) / 3);
-}
