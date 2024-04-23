@@ -312,10 +312,6 @@ padding-right: 24px;
 }
 .our-portfolio {
     max-width: 1440px;
-    padding-right: 156px;
-    padding-left: 156px;
-    padding-top: 120px;
-    padding-bottom: 126px; 
 }
 .our-portfolio:not(:last-child) {
     margin-left: 24px;
