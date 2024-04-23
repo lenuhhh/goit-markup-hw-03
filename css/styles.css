@@ -365,6 +365,6 @@ display: flex;
 .benefits-text {
     width: calc((100% - 72px) / 4); 
 }
-.benefits-tops {
+.benefits-list {
     margin-bottom: 8px;
 }
