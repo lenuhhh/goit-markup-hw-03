@@ -403,5 +403,5 @@ column-gap: 24px;
 row-gap: 48px; 
 }
 .main-text-port {
-    width: calc( clac (100% - 48px) / 3); 
+    width: calc calc ((100% - 48px) / 3); 
 }
