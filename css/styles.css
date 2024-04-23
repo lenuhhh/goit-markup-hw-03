@@ -362,3 +362,6 @@ display: flex;
 .benefits-section {
     padding: 120px 0
 }
+.benefits-tops {
+    margin-bottom: 8px; 
+}
