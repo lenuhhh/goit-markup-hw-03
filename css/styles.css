@@ -277,6 +277,7 @@ min-width: 169px;
 .box-models {
     display: flex;
     justify-content: center;
+    width: calc((100% - 72px) / 4); 
 }
 .box-model:not(:last-child) {
 margin-right: 24px;
@@ -354,9 +355,6 @@ display: flex;
 }
 .benefits-section {
     padding: 120px 0;
-}
-.benefits-text {
-    width: calc((100% - 72px) / 4); 
 }
 .page-benefits {
     margin-bottom: 8px;
