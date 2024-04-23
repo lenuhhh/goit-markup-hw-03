@@ -235,6 +235,10 @@ background-color: #FFFFFF
 .list-child:not(:last-child) {
     margin-right: 40px;
 }
+.list-child {
+    display: flex;
+    gap: 40px;
+}
 .hero-container {
 max-width: 1440px;
 padding-top: 188px;
