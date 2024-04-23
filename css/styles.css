@@ -163,10 +163,9 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 line-height: 1.17;
-display: inline-block;
 }
 .page-webstudio {
-    display: inline-block;
+    display: flex;
 }
 .team-box-one {
 background-color: #2e2f42;  
