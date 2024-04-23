@@ -334,7 +334,8 @@ padding-right: 24px;
     padding-left: 156px;
     padding-right: 900px;
 }
-.page-header {
-    width: 1158px; 
+.header-page-title {
     border-bottom: 1px solid #e7e9fc
+    display: flex; 
+    width: 1158px;
 }
