@@ -268,6 +268,7 @@ min-width: 169px;
     margin-bottom: 120px;
     margin-left: 156px;
     margin-right: 156px;
+    gap: 24px; 
 }
 .team-list {
     max-width: 1440px;
@@ -357,10 +358,6 @@ padding-right: 24px;
 background: #2e2f42;
 max-width: 1440px;
 display: flex;
-}
-.benefits-tops {
-    padding: 120px 0 120px
-.visually-hidden 
 }
 .benefits-section {
     padding: 120px 0
