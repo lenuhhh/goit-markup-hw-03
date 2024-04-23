@@ -393,6 +393,3 @@ width: calc((100% - 72px) / 4);
 .logo-web {
     display: inline-block; 
 }
-.text-our-title {
-    width: calc((100% - 48px) / 3); 
-}
