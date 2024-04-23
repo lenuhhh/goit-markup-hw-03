@@ -117,6 +117,7 @@ color: #2e2f42;
 /* ==============Footer============== */
 .model-box-footer {
 background: #2e2f42;
+padding: 100px 0 100px
 }
 .text-footer {
 font-family: "Roboto", sans-serif;
@@ -341,7 +342,4 @@ padding-right: 24px;
 }
 .portfolio-last {
     padding-top: 120px; padding-bottom: 120px;
-}
-.model-box-footer {
-    padding: 100px 0 100px
-}
+
