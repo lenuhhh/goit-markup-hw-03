@@ -375,7 +375,6 @@ width: calc((100% - 72px) / 4);
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px
-        column-gap: 24px; 
     row-gap: 48px;
 }
 .team-people {
