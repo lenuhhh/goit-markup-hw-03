@@ -131,6 +131,7 @@ color: #f4f4fd;
 }
 .page-webstudio {
 color: #f4f4fd;
+display: inline-block; 
 }
 .page-web {
 color: #2e2f42;
@@ -188,7 +189,7 @@ padding-top: 8px;
 padding-bottom: 32px;
 padding-left: 68px;
 padding-right: 68px;
-        text-align: center; 
+text-align: center; 
 }
 .text-portfolio {
 font-weight: 500;
