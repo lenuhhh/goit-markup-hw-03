@@ -274,6 +274,7 @@ min-width: 169px;
     margin-left: 156px;
     margin-right: 156px;
     gap: 24px; 
+    column-gap: 24px;
 }
 .team-list {
     max-width: 1440px;
