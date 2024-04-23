@@ -357,3 +357,6 @@ padding-right: 24px;
 .hero {
     padding: 188px 0
 }
+.main-section {
+    max-width: 496px;
+}
