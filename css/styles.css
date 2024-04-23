@@ -202,4 +202,143 @@ background-color: #FFFFFF
     width: 1440px;
     height: 600px;
 }
+.container {
+    max-width: 1440px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.menu-nav {
+    display: flex; 
+    padding-left: 156px;
+    padding-right: 156px;
+    align-items: center; 
+}
 
+.nav-list-item {
+    align-items: center;
+    margin-left: 76px;
+    display: flex; 
+    margin-right: auto;
+}
+.menu-links-items:not(:last-child) {
+    margin-right: 40px;
+}
+.nav-list {
+    display: flex;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.list-child:not(:last-child) {
+    margin-right: 40px;
+}
+.hero-container {
+max-width: 1440px;
+padding-top: 188px;
+padding-bottom: 204px;
+background: #2e2f42;
+padding-left: 410px;
+padding-right: 410px;
+}
+.main-section {
+max-width: 1440px;
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #FFFFFF;
+}
+.button-type {
+width: 169px;
+height: 56px;
+margin-top: 40px;
+margin-left: 210px;
+width: 169px;
+}
+.benefits-hero {
+    justify-content: center;
+}
+.benefits-list {
+    display: flex;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 156px;
+    margin-right: 156px;
+}
+.team-list {
+    max-width: 1440px;
+    padding-right: 156px;
+    padding-left: 156px;
+    margin-top: 232px;
+    padding-bottom: 126px;
+}
+.box-models {
+    display: flex;
+    justify-content: center;
+}
+.box-model:not(:last-child) {
+margin-right: 24px;
+}
+.benefits-text:not(:last-child) {
+padding-right: 24px;
+}
+.text-page {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.text-our {
+    display: flex;
+    max-width: 1127px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.our-text {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+    margin-bottom: 72px;
+}
+.our-portfolio {
+    max-width: 1440px;
+    padding-right: 156px;
+    padding-left: 156px;
+    padding-top: 120px;
+    padding-bottom: 126px; 
+}
+.our-portfolio:not(:last-child) {
+    margin-left: 24px;
+}
+.footer-title {
+    max-width: 1440px;
+    height: 316px;
+}
+.page-logotype {
+    align-items: center;
+    display: flex;
+    padding: 100px 0 100px
+    margin-bottom: 16px;
+    display: inline-block;
+}
+.text-footer {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 156px;
+    padding-right: 900px;
+}
+.page-header {
+    border-bottom: 1px solid #e7e9fc
+    display: flex; 
+    width: 1158px;
+}
+.portfolio-last {
+    padding-top: 120px; padding-bottom: 120px;
+}
