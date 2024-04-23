@@ -198,6 +198,7 @@ line-height: 1.5;
 .box-model {
 background-color: #FFFFFF
     width: calc((100% - 72px) / 4); 
+    border-radius: 0px 0px 4px 4px;
 }
 .team-box-one {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25), 0 4px 4px 0 rgba(0, 0, 0, 0.25);
@@ -277,8 +278,6 @@ min-width: 169px;
 .box-models {
     display: flex;
     justify-content: center;
-        width: calc((100% - 72px) / 4); 
-    border-radius: 0px 0px 4px 4px;
 }
 .box-model:not(:last-child) {
 margin-right: 24px;
