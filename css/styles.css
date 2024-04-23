@@ -362,7 +362,7 @@ display: flex;
 .benefits-section {
     padding: 120px 0;
 }
-.page-benefits {
+.benefits-text {
     margin-bottom: 8px; 
     width: calc((100% - 72px) / 4); 
 }
