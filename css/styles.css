@@ -321,6 +321,7 @@ padding-right: 24px;
 }
 .our-portfolio {
     max-width: 1440px;
+        width: calс(clac(100% - 48px) / 3); 
 }
 .our-portfolio:not(:last-child) {
     margin-left: 24px;
@@ -402,6 +403,6 @@ margin-bottom: 48px
 column-gap: 24px;
 row-gap: 48px; 
 }
-.our-text {
+.portfolio-last {
     width: calс(clac(100% - 48px) / 3); 
 }
