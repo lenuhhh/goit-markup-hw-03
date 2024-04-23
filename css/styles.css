@@ -362,3 +362,6 @@ display: flex;
     padding: 120px 0 120px
 .visually-hidden 
 }
+.benefits-hero {
+    padding: 120px 0
+}
