@@ -366,5 +366,10 @@ display: flex;
 width: calc((100% - 72px) / 4); 
 }
 .box.model {
-        border-radius: 0px 0px 4px 4px;
+    border-radius: 0px 0px 4px 4px;
+    margin-bottom: 8px
+}
+.text-our {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
 }
