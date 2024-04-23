@@ -216,7 +216,6 @@ background-color: #FFFFFF
     align-items: center; 
         border-bottom: 1px solid #e7e9fc;
     width: 1158px;
-    padding: 24px 0 24px
 }
 
 .nav-list-item {
@@ -347,5 +346,5 @@ padding-right: 24px;
 .page-header {
     border-bottom: 1px solid #e7e9fc;
     width: 1158px;
-    padding: 24px 0
+    padding: 24px 0 24px
 }
