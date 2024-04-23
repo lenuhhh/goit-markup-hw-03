@@ -242,14 +242,6 @@ background-color: #FFFFFF
     gap: 40px;
     padding: 24px 0 24px
 }
-.hero-container {
-max-width: 1440px;
-padding-top: 188px;
-padding-bottom: 204px;
-background: #2e2f42;
-padding-left: 410px;
-padding-right: 410px;
-}
 .main-section {
 max-width: 1440px;
 font-weight: 700;
