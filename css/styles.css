@@ -86,6 +86,7 @@ letter-spacing: 0.02em;
 }
 .team-box {
 background: #f4f4fd;
+    padding: 120px 0 120px
 }
 .teams {
     font-family: "Roboto", sans-serif;
