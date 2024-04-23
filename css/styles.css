@@ -345,7 +345,8 @@ padding-right: 24px;
 }
 .page-header {
     width: 1158px;
-    padding: 24px 0
+    padding: 24px 0;
+    border-bottom: 1px solid #e7e9fc;
 }
 .hero {
     padding: 188px 0
