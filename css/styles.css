@@ -386,3 +386,6 @@ width: calc((100% - 72px) / 4);
 .team-people {
     padding: 32px 0;
 }
+.main-text-port {
+    width: calc((100% - 48px) / 3); 
+}
