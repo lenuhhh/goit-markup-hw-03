@@ -360,8 +360,11 @@ max-width: 1440px;
 display: flex;
 }
 .benefits-section {
-    padding: 120px 0
+    padding: 120px 0;
 }
-.benefits-tops {
+.page-benefits {
     margin-bottom: 8px; 
+}
+.page-benefits {
+    width: calc((100% - 72px) / 4); 
 }
