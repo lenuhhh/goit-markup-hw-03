@@ -227,8 +227,6 @@ background-color: #FFFFFF
     border-bottom: 1px solid #e7e9fc;
     width: 1158px;
     padding: 24px 0;
-padding-top: 24px;
-padding-bottom: 24px;
 }
 
 .nav-list-item {
@@ -237,6 +235,8 @@ padding-bottom: 24px;
     display: flex; 
     margin-right: auto;
     padding: 24px 0ж
+    padding-top: 24px;
+padding-bottom: 24px;
 }
 .menu-links-items:not(:last-child) {
     margin-right: 40px;
