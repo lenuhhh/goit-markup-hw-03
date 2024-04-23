@@ -106,7 +106,6 @@ background: #f4f4fd;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    text-align: center;
 }
 .page-portfolio {
 font-family: "Roboto", sans-serif;
@@ -186,6 +185,7 @@ padding-top: 8px;
 padding-bottom: 32px;
 padding-left: 68px;
 padding-right: 68px;
+        text-align: center; 
 }
 .text-portfolio {
 font-weight: 500;
