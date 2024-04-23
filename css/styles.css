@@ -325,9 +325,9 @@ padding-right: 24px;
 .page-logotype {
     align-items: center;
     display: flex;
-    padding: 100px 0 100px
-    margin-bottom: 16px;
+    padding: 100px 0 100px;
     display: inline-block;
+    margin-bottom: 16px;
 }
 .text-footer {
     padding-top: 16px;
