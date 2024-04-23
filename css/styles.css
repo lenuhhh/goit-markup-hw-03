@@ -377,4 +377,6 @@ width: calc((100% - 72px) / 4);
         column-gap: 24px; 
     row-gap: 48px;
 }
-
+.team-people {
+    padding: 32px 0;
+}
